@@ -1,0 +1,23 @@
+{
+  "name": "inheritance-lab",
+  "version": "1.0.0",
+  "description": "This lab requires students to apply their knowledge of inheritance and prototypes",
+  "main": "index.js",
+  "scripts": {
+    "tests": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sf-wdi-14/inheritance-lab"
+  },
+  "author": "Cho S. Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sf-wdi-14/inheritance-lab/issues"
+  },
+  "homepage": "https://github.com/sf-wdi-14/inheritance-lab",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
