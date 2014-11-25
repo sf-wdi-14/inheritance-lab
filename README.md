@@ -20,6 +20,9 @@ Instructions:
 
 		$ npm install
 
-5. Navigate to `inheritance/test`. You'll write tests in this sub-directory. 
+5. Your goal is create two constructors: Rectangle and Square. Both constructors should have a width and height property. Only one constructor should have a method named "getArea". You must create an implementation of "getArea" for one constructor and then have the other constructor inherit this method. 
 
-6. Navigate to `inheritance/code`. You'll write code in this sub-directory.
+6. Write your tests in inheritance-lab/test. 
+
+7. Write your code in inheritance-lab/code.
+
