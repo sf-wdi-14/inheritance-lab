@@ -10,13 +10,14 @@ describe('Rectangle', function() {
   });
 
   it('to have the correct width', function() {
-    // write a test here
+    expect(rectangle.width).to.equal(5);
   });
 
   it('to have a method named #getArea', function() {
     should.exist(rectangle.getArea());
   });
 
-  // write more tests
-  
+   it('to have the correct area', function() {
+    expect(rectangle.getArea()).to.equal(20);
+  });
 });

@@ -2,11 +2,12 @@
 
 var Rectangle = function(height, width) {
   this.height = height;
+  this.width  = width;
 };
-
-
-// partially implemented 
-Rectangle.prototype
+ 
+Rectangle.prototype.getArea = function() {
+  return this.height * this.width;
+};
 
 
 
