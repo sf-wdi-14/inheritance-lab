@@ -1,4 +1,5 @@
 // In this file, create your Square constructor
+var Rectangle = require('./rectangle.js');
 
 var Square = function() {
   
