@@ -26,3 +26,4 @@ Instructions:
 
 7. Write your code in inheritance-lab/code.
 
+8. Push up to your own branch: `$ git push origin HEAD:firstname`
